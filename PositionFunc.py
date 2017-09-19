@@ -1,4 +1,6 @@
 # -*- coding:UTF-8 -*-
+
+# 位置参数与命名参数
 import types
 
 def add(*items, **args):
